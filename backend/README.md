@@ -36,11 +36,9 @@ Spring Boot: 2.6.7
 Dependencies:
 
     Developer Tools:
-    
         --> Lombok
         
     web:
-    
         --> Spring Web
         
         --> Spring Reactive Web
