@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/backend/backend.iml" filepath="$PROJECT_DIR$/backend/backend.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/cgn-java-22-1-my-shopping-list-app.iml" filepath="$PROJECT_DIR$/.idea/cgn-java-22-1-my-shopping-list-app.iml" />
     </modules>
   </component>
 </project>
